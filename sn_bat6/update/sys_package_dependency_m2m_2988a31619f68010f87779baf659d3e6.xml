@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="cat6" source="sn_cat6">0ec7a7d219f68010f87779baf659d394</dependency>
+        <min_version/>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2020-02-08 20:33:22</sys_created_on>
+        <sys_id>2988a31619f68010f87779baf659d3e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="bat6" source="sn_bat6">af8727d219f68010f87779baf659d3a2</sys_package>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2020-02-08 20:33:22</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
